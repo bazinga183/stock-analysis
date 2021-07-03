@@ -8,6 +8,7 @@ Therefore, in the most up-to-date file ([VBA_Challenge](https://github.com/bazin
 
 ### Comparing the Stock Returns for 2017 and 2018
 If we look at 2017, we can notice that almost all stocks yielded a positive return with the exception of TERP. On its surface, this means that the client cannot go wrong unless they choose the only unprofitable stock:  TERP.
+
 ![2017Stocks](https://user-images.githubusercontent.com/46951897/124365299-a91e8500-dc0c-11eb-9f40-9d3fbae391af.PNG)
 
 However, upon further analysis of 2018, the clients were alarmed to find that almost all stocks had a negative return, except for ENPH and RUN.
@@ -23,6 +24,7 @@ The original VBA code in ([green stocks](https://github.com/bazinga183/stock-ana
 ![2018(1)](https://user-images.githubusercontent.com/46951897/124365441-a7a18c80-dc0d-11eb-81ad-160a1d1cc0c7.PNG)
 
 The new code yielded faster run times of 0.1484375 and 0.1328125 seconds for 2017 and 2018, respectively.
+
 ![2017(2)](https://user-images.githubusercontent.com/46951897/124365448-bdaf4d00-dc0d-11eb-864d-adfca8ce7893.PNG)
 ![2018(2)](https://user-images.githubusercontent.com/46951897/124365451-c011a700-dc0d-11eb-9e3d-3ac7fddf5961.PNG)
 
